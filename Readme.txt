@@ -1,5 +1,5 @@
 1- Para crear el proyecto de laravel he usado el siguiente comando:
-    -php /User/alejandrobaeza/composer.phar create-project laravel/laravel practicalaravel
+    -php /Users/alejandrobaeza/composer.phar create-project laravel/laravel practicalaravel
 
 2- Para conectar con una base de datos nos vamos al archivo .env y modificamos los siguientes parámetros:
     DB_CONNECTION=mysql
